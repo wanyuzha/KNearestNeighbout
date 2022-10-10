@@ -29,8 +29,8 @@ python main.py
 *   Find the medium value on the dimension with bigger varanice and take it as root node
 *   Seperate the list into left list and right list and resolve them reversely
 *   Left child node means all the points are to the left (on that dimension) of the node, right child node is same way
-![image](https://github.com/Wan-woo/KNearestNeighbout/blob/main/IMG/KD%20tree.png)
 ```
+![image](https://github.com/Wan-woo/KNearestNeighbout/blob/main/IMG/KD%20tree.png)
 * Find the nearest K neighbour in KD Tree
 ```
 *   Start from root, and compare with each node to decide left or right till leaf
